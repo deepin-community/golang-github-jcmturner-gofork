@@ -1,0 +1,11 @@
+golang-github-jcmturner-gofork (1.0.0-2) unstable; urgency=medium
+
+  * Update debian/copyright file to include the Go authors.
+
+ -- Stephen Gelman <ssgelm@debian.org>  Sun, 23 Feb 2020 16:59:16 -0600
+
+golang-github-jcmturner-gofork (1.0.0-1) unstable; urgency=medium
+
+  * Initial release (Closes: #951816)
+
+ -- Stephen Gelman <ssgelm@debian.org>  Fri, 21 Feb 2020 16:50:13 -0600
